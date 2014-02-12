@@ -1,0 +1,5 @@
+C:\Users\test\Desktop\gameskore\GameskoreService\bin\Debug\GameskoreService.exe
+C:\Users\test\Desktop\gameskore\GameskoreService\bin\Debug\GameskoreService.pdb
+C:\Users\test\Desktop\gameskore\GameskoreService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Desktop\gameskore\GameskoreService\obj\Debug\GameskoreService.exe
+C:\Users\test\Desktop\gameskore\GameskoreService\obj\Debug\GameskoreService.pdb

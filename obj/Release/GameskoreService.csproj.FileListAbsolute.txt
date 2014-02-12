@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\gameskore\GameskoreService\bin\Release\GameskoreService.exe
+C:\Users\test\Desktop\gameskore\GameskoreService\bin\Release\GameskoreService.pdb
+C:\Users\test\Desktop\gameskore\GameskoreService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\test\Desktop\gameskore\GameskoreService\obj\Release\GameskoreService.exe
+C:\Users\test\Desktop\gameskore\GameskoreService\obj\Release\GameskoreService.pdb
+C:\Users\test\Desktop\CardReader\CardReader\obj\Release\GameskoreService.exe
+C:\Users\test\Desktop\CardReader\CardReader\obj\Release\GameskoreService.pdb

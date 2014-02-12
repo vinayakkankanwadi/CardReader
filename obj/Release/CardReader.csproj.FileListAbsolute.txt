@@ -1,0 +1,7 @@
+C:\Users\test\Desktop\CardReader\CardReader\bin\Release\CardReaderService.exe.config
+C:\Users\test\Desktop\CardReader\CardReader\bin\Release\CardReaderService.exe
+C:\Users\test\Desktop\CardReader\CardReader\bin\Release\CardReaderService.pdb
+C:\Users\test\Desktop\CardReader\CardReader\bin\Release\LibUsbDotNet.dll
+C:\Users\test\Desktop\CardReader\CardReader\obj\Release\CardReader.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\CardReader\CardReader\obj\Release\CardReaderService.exe
+C:\Users\test\Desktop\CardReader\CardReader\obj\Release\CardReaderService.pdb

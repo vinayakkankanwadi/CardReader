@@ -1,0 +1,1 @@
+C:\Users\test\Desktop\CardReader\CardReader\bin\Debug\CardReaderService.exe.config
